@@ -9,10 +9,13 @@
 - [x] twitch
 - [x] workjam
 - [x] youtube
+  - [ ] youtube with white triangle
 - [x] aidoku
 - [x] sora
 - [x] apollo
+  - [ ] apollo with colored eyes
 - [x] desert finaincial mobile
+  - [ ] desert financial with light mode blue colors
 - [ ] naugo
 - [ ] iclicker
 - [ ] duo mobile
