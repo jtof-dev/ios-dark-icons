@@ -15,6 +15,7 @@
 - [x] apollo
   - [ ] apollo with colored eyes
 - [x] desert finaincial mobile
+- [ ] itorrent
   - [ ] desert financial with light mode blue colors
 - [ ] naugo
 - [ ] iclicker
